@@ -19,7 +19,7 @@ Wir stehen noch ganz am Anfang und brauchen jeden Kopf:
 
 1. **Logik-Sammler:** Schreibt uns in die [Issues] eure "Wenn-Dann"-Regeln. 
    - Beispiel: *„Wenn Mod:Stuhl, dann Eichen-Treppe“* oder *„Tisch -> Slab“*. 
-   - Schreibt es, wie ihr wollt – die KI lernt aus eurer natürlichen Schreibweise!
+   - Schreibt es, wie ihr wollt – die KI lernt aus eurer natürlichen Schreibweise! https://github.com/davijrzzz9-lgtm/Projekt-Vorschlag-KI-basiertes-Universal-Mapping-f-r-Minecraft-Mods-via-Community-Website/issues/1#issue-4172174108
 
 2. **Web-Devs:** Wir brauchen jemanden, der ein simples Frontend für dieses Textfeld baut, damit wir die Community-Daten zentral sammeln können.
 
