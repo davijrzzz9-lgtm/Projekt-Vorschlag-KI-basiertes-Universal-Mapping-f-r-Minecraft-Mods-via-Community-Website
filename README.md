@@ -1,0 +1,2 @@
+# Projekt-Vorschlag-KI-basiertes-Universal-Mapping-f-r-Minecraft-Mods-via-Community-Website
+KI-basiertes Universal-Mapping für Minecraft-Mods. Rettet Weltstrukturen bei der Konvertierung (Java/Bedrock) durch automatischen Hitbox-Abgleich &amp; Textur-Transfer. Nutzt einen Natural Language Parser, damit die Community einfache „Wenn-Dann“-Regeln in jeder Sprache füttern kann. Schluss mit Datenverlust beim Welten-Wechsel!
